@@ -1,4 +1,13 @@
 <?php
+/**
+* ========================================================
+* Spicy Yaml parser
+* this library tuned oroginal spyc http://code.google.com/p/spyc/
+*
+* @author Yoshiaki Sugimoto <neo.yoshiaki.sugimoto@gmail.com>
+* @license http://www.opensource.org/licenses/mit-license.php MIT License
+* ========================================================
+*/
 
 class Spicy
 {
